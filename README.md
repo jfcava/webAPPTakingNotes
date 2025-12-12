@@ -1,4 +1,4 @@
-# 📝 webAPPTakingNotes  
+# 📝 webAPP - Taking Notes  
 Aplicación Web para gestionar notas personales, desarrollada con **ASP.NET** y **C#**.
 
 <p align="center">
